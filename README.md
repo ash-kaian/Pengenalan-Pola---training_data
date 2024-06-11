@@ -1,1 +1,1 @@
-# Pengenalan-Pola---training_model
+# Pengenalan-Pola---training_data
